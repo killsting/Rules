@@ -68,8 +68,3 @@ https://raw.githubusercontent.com/tudi1909/Surge_rules/master/iOS.conf
 ```
 
 ###### 3.开启！
-
-
-## 捐赠
-  感谢各位使用，由于后期的抓包和去广告更耗时耗力，欢迎各位多多请喝茶！
-![QR Code](https://raw.githubusercontent.com/tudi1909/Surge_rules/master/q.png)
