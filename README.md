@@ -29,5 +29,9 @@ note: 因现在大部分APP升级后协议基本为HTTPS，所以开启了MITM�
 [全能规则]
 包含黑白名单，适配所有机型;
 
+https://raw.githubusercontent.com/killsting/Surge-Rules/master/iOS.conf
+
 [精简规则]
 包含白名单,节省内存占用适配越狱机型；
+
+https://raw.githubusercontent.com/killsting/Surge-Rules/master/iOS-Lite.conf
