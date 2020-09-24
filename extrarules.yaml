@@ -1,0 +1,17 @@
+- DOMAIN,deezer.com,Deezer
+- PROCESS-NAME,deezer.android.app,Deezer
+- DOMAIN-SUFFIX,deezer.com,Deezer
+- DOMAIN-SUFFIX,dzcdn.net,Deezer
+
+proxies:
+  - Proxy
+  - DIRECT
+  - "\U0001F1F8\U0001F1EC 新加坡 Azure"
+  - "\U0001F1F8\U0001F1EC 新加坡 BGP"
+  - "\U0001F1F8\U0001F1EC 新加坡 IPLC"
+  - "\U0001F1F8\U0001F1EC 新加坡 IPLC+ 01"
+  - "\U0001F1F8\U0001F1EC 新加坡 IPLC+ 02"
+  - "\U0001F1F8\U0001F1EC 新加坡 NTT 01"
+  - "\U0001F1F8\U0001F1EC 新加坡 NTT 02"
+  - "\U0001F1F8\U0001F1EC 新加坡 NTT 03"
+  - "\U0001F1F8\U0001F1EC 新加坡 NTT 04"
