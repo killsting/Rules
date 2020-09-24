@@ -3,6 +3,7 @@
 - DOMAIN-SUFFIX,deezer.com,Deezer
 - DOMAIN-SUFFIX,dzcdn.net,Deezer
 
+proxy-groups:
 - name: Deezer
   type: select
   proxies:
